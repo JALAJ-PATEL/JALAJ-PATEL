@@ -93,8 +93,6 @@ I love transforming raw data into **insights, automation, and interactive tools*
 ![Jalaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JALAJ-PATEL&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JALAJ-PATEL&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JALAJ-PATEL&theme=radical)
-
 
 
 ---
